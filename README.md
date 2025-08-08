@@ -10,7 +10,7 @@ rowB colB
 
 
 ## Output
-Prints exactly:
+```Prints exactly:
 yes or no
 
 Example:
@@ -29,6 +29,6 @@ Input:
 5 7 3
 
 Output:
-yes
+yes```
 
 ![Demo](images/demo.png)
