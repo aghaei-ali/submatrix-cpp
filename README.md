@@ -29,6 +29,6 @@ Input:
 5 7 3
 
 Output:
-yes```
+yes
 
 ![Demo](images/demo.png)
