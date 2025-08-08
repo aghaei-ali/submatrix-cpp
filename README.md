@@ -1,21 +1,18 @@
-# submatrix_cpp
-
-This C++ program checks if a smaller matrix B can be obtained from a larger matrix A by selecting rows and columns in order (they do not have to be adjacent).
-
 ## Input
+```
 rowA colA
 rowB colB
-<rowA * colA integers for A (row-major)>
-<rowB * colB integers for B (row-major)>
-
-
+rowA * colA numbers for matrix A (row by row)
+rowB * colB numbers for matrix B (row by row)
+```
 ## Output
-```Prints exactly:
+Prints exactly:
 yes or no
 
 Example:
-Input:
 
+Input:
+```
 6 6
 3 3
 1 2 3 4 5 6
@@ -27,8 +24,12 @@ Input:
 8 1 3
 8 6 4
 5 7 3
+```
 
 Output:
+```
 yes
+```
 
 ![Demo](images/demo.png)
+
