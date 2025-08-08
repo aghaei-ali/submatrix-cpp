@@ -7,6 +7,7 @@ rowB * colB numbers for matrix B (row by row)
 ```
 ## Output
 Prints exactly:
+
 yes or no
 
 Example:
